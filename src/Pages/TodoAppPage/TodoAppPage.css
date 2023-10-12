@@ -22,27 +22,31 @@
   font-size: 32px;
 }
 .addTodo {
-    margin-right:10px;
+  margin-right: 10px;
   margin-top: 8px;
   width: 25px;
   height: 25px;
 }
-.redColor{
-    border:1px solid;
-    height:50px;
-    width:50px;
-    border-radius:25%;
-    background-color:red;
+.redColor {
+  border: 1px solid;
+  height: 50px;
+  width: 50px;
+  border-radius: 25%;
+  background-color: red;
 }
-.blueColor{
-    background-color:blue;
-    height:50px;
-    width:50px;
-    border-radius:25%;
+.blueColor {
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+  border-radius: 25%;
 }
-.greenColor{
-    background-color: green;
-    height:50px;
-    width:50px;
-    border-radius:25%;
+.greenColor {
+  background-color: green;
+  height: 50px;
+  width: 50px;
+  border-radius: 25%;
+}
+.addButton {
+  background-color: transparent;
+  border: none;
 }
